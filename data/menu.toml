@@ -36,18 +36,30 @@ title = "all posts"
 title = "projects"
 
   [[entries.entries]]
-  title = "upcoming"
-
-    [[entries.entries.entries]]
-      title = "<a href='#'>supercharge</a>"
-
-  [[entries.entries]]
   title = "current"
 
     [[entries.entries.entries]]
       title = "<a href='https://gitlab.com/JonoAugustine/on-it'>on-it</a>: minimal note taking and to-do web application"
         [[entries.entries.entries.entries]]
         title = "react, sass, typescript"
+        [[entries.entries.entries.entries]]
+        title = "members: "
+
+    [[entries.entries.entries]]
+      title = "<a href='#'>opengl</a>: learning opengl by making a game engine"
+        [[entries.entries.entries.entries]]
+        title = "c++"
+
+    [[entries.entries]]
+    title = "upcoming"
+
+      [[entries.entries.entries]]
+        title = "<a href='#'>supercharge</a>"
+            [[entries.entries.entries.entries]]
+            title = "go, next"
+
+      [[entries.entries.entries]]
+        title = "<a href='#'>lockbox</a>"
 
     [[entries.entries]]
     title = "archive"
@@ -55,12 +67,15 @@ title = "projects"
            title = "<a href='https://github.com/byanthny/Athena'>athena</a> [UNFINISHED]: a css framework"
                 [[entries.entries.entries.entries]]
                 title = "less"
+
         [[entries.entries.entries]]
             title = "<a href='https://github.com/byanthny/Ouch'>ouch</a>: a simulation where you and your friends can exist in an existence together"
                 [[entries.entries.entries.entries]]
                 title = "an over complicated messaging web app"
                 [[entries.entries.entries.entries]]
                 title = "javascript"
+                [[entries.entries.entries.entries]]
+                title = "members: "
 
         [[entries.entries.entries]]
             title = "<a href='#'>anime-db</a>: "
@@ -68,6 +83,8 @@ title = "projects"
                 title = "class project from uni"
                 [[entries.entries.entries.entries]]
                 title = "php, databases"
+                [[entries.entries.entries.entries]]
+                title = "members: "
 
         [[entries.entries.entries]]
         title = "<a href='#'>bonsai</a>: "
@@ -75,14 +92,42 @@ title = "projects"
             title = "class project from uni"
             [[entries.entries.entries.entries]]
             title = "react, tailwindcss, express, mongo-db, typescript"
+            [[entries.entries.entries.entries]]
+            title = "members: group"
 
         [[entries.entries.entries]]
         title = "<a href='#'>leadingedge labs/r3d</a>: "
             [[entries.entries.entries.entries]]
-            title = "after school program from highschool"
+            title = "built during after school program from highschool"
             [[entries.entries.entries.entries]]
             title = "unity, leapmotion, arduino, c++"
 
+        [[entries.entries.entries]]
+        title = "<a href='#'>drosophila</a>: helped expand computational models of Drosophila neuron behavior"
+            [[entries.entries.entries.entries]]
+            title = "research assistant from uni"
+            [[entries.entries.entries.entries]]
+            title = "python, NUERON"
+            [[entries.entries.entries.entries]]
+            title = "members: lab"
+
+        [[entries.entries.entries]]
+        title = "<a href='#'>CoGS</a>: android"
+            [[entries.entries.entries.entries]]
+            title = "class project from uni"
+            [[entries.entries.entries.entries]]
+            title = "android development, java"
+            [[entries.entries.entries.entries]]
+            title = "members: group"
+
+        [[entries.entries.entries]]
+        title = "<a href='#'>pintOS</a>: operating system"
+            [[entries.entries.entries.entries]]
+            title = "class project from uni based on pintOS"
+            [[entries.entries.entries.entries]]
+            title = "c, c++"
+            [[entries.entries.entries.entries]]
+            title = "members: group"
 
 [[entries]]
 title = "site info"
