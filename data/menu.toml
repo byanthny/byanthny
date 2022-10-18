@@ -1,0 +1,105 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "name: anthony das"
+
+  [[entries.entries.entries]]
+    title = "resume"
+    url = "/resume/Resume.pdf"
+
+  [[entries.entries]]
+  title = "socials"
+
+    [[entries.entries.entries]]
+    title = "github"
+    url = "https://github.com/byanthny/"
+
+    [[entries.entries.entries]]
+    title = "gitlab"
+    url = "https://gitlab.com/byanthny/"
+
+    [[entries.entries.entries]]
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/byanthny/"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "see archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "projects"
+
+  [[entries.entries]]
+  title = "upcoming"
+
+    [[entries.entries.entries]]
+      title = "<a href='#'>supercharge</a>"
+
+  [[entries.entries]]
+  title = "current"
+
+    [[entries.entries.entries]]
+      title = "<a href='https://gitlab.com/JonoAugustine/on-it'>on-it</a>: minimal note taking and to-do web application"
+        [[entries.entries.entries.entries]]
+        title = "react, sass, typescript"
+
+    [[entries.entries]]
+    title = "archive"
+        [[entries.entries.entries]]
+           title = "<a href='https://github.com/byanthny/Athena'>athena</a> [UNFINISHED]: a css framework"
+                [[entries.entries.entries.entries]]
+                title = "less"
+        [[entries.entries.entries]]
+            title = "<a href='https://github.com/byanthny/Ouch'>ouch</a>: a simulation where you and your friends can exist in an existence together"
+                [[entries.entries.entries.entries]]
+                title = "an over complicated messaging web app"
+                [[entries.entries.entries.entries]]
+                title = "javascript"
+
+        [[entries.entries.entries]]
+            title = "<a href='#'>anime-db</a>: "
+                [[entries.entries.entries.entries]]
+                title = "class project from uni"
+                [[entries.entries.entries.entries]]
+                title = "php, databases"
+
+        [[entries.entries.entries]]
+        title = "<a href='#'>bonsai</a>: "
+            [[entries.entries.entries.entries]]
+            title = "class project from uni"
+            [[entries.entries.entries.entries]]
+            title = "react, tailwindcss, express, mongo-db, typescript"
+
+        [[entries.entries.entries]]
+        title = "<a href='#'>leadingedge labs/r3d</a>: "
+            [[entries.entries.entries.entries]]
+            title = "after school program from highschool"
+            [[entries.entries.entries.entries]]
+            title = "unity, leapmotion, arduino, c++"
+
+
+[[entries]]
+title = "site info"
+
+  [[entries.entries]]
+  title = "rss"
+  url = "index.xml"
+
+  [[entries.entries]]
+  title = "github repo"
+  url = "https://github.com/byanthny/byanthny"
+
+  [[entries.entries]]
+  title = "built with <a href='https://gohugo.io/'>Hugo</a>."
+
+  [[entries.entries]]
+  title = "theme: <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
+
+  [[entries.entries]]
+  title = "custom theme coming in future..."
