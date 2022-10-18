@@ -1,6 +1,6 @@
 baseURL = 'https://byanthny.com/'
 languageCode = 'en-us'
-title = 'byanthny [site in progress]'
+title = 'byanthny'
 theme = 'nostyle'
 
 [module]

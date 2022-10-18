@@ -41,14 +41,27 @@ title = "projects"
     [[entries.entries.entries]]
       title = "<a href='https://gitlab.com/JonoAugustine/on-it'>on-it</a>: minimal note taking and to-do web application"
         [[entries.entries.entries.entries]]
-        title = "react, sass, typescript"
+        title = "but overly 'complicated'"
         [[entries.entries.entries.entries]]
-        title = "members: "
+        title = "node, react, sass, typescript, mongoDB"
+        [[entries.entries.entries.entries]]
+        title = "members"
+        url = "https://gitlab.com/JonoAugustine/on-it/-/graphs/master"
 
     [[entries.entries.entries]]
-      title = "<a href='#'>opengl</a>: learning opengl by making a game engine"
+      title = "<a href='https://github.com/byanthny/opengl'>opengl</a> [backlog]: learning opengl by making a game engine"
         [[entries.entries.entries.entries]]
         title = "c++"
+
+    [[entries.entries.entries]]
+    title = "<a href=''>bndts</a> [backlog]: wordpress blog"
+        [[entries.entries.entries.entries]]
+        title = "brand and blog for creatives and random creative projects"
+        [[entries.entries.entries.entries]]
+        title = "wordpress, seo, google analytics"
+        [[entries.entries.entries.entries]]
+        title = "members"
+        url = "https://bndts.co/about/"
 
     [[entries.entries]]
     title = "upcoming"
@@ -63,71 +76,76 @@ title = "projects"
 
     [[entries.entries]]
     title = "archive"
-        [[entries.entries.entries]]
-           title = "<a href='https://github.com/byanthny/Athena'>athena</a> [UNFINISHED]: a css framework"
-                [[entries.entries.entries.entries]]
-                title = "less"
 
         [[entries.entries.entries]]
-            title = "<a href='https://github.com/byanthny/Ouch'>ouch</a>: a simulation where you and your friends can exist in an existence together"
-                [[entries.entries.entries.entries]]
-                title = "an over complicated messaging web app"
-                [[entries.entries.entries.entries]]
-                title = "javascript"
-                [[entries.entries.entries.entries]]
-                title = "members: "
+        title = "2022 - <a href='#'>bonsai</a> [offline]: resource and collaboration hub for JHU students"
+            [[entries.entries.entries.entries]]
+            title = "class project from uni, repo owned by uni"
+            [[entries.entries.entries.entries]]
+            title = "node, react, tailwindcss, express, mongoDB, typescript"
+            [[entries.entries.entries.entries]]
+            title = "members: class group"
 
         [[entries.entries.entries]]
-            title = "<a href='#'>anime-db</a>: "
-                [[entries.entries.entries.entries]]
-                title = "class project from uni"
-                [[entries.entries.entries.entries]]
-                title = "php, databases"
-                [[entries.entries.entries.entries]]
-                title = "members: "
-
-        [[entries.entries.entries]]
-        title = "<a href='#'>bonsai</a>: "
+          title = "2021 - <a href='https://github.com/sf11047/anime-db'>anime-db</a>: "
             [[entries.entries.entries.entries]]
             title = "class project from uni"
             [[entries.entries.entries.entries]]
-            title = "react, tailwindcss, express, mongo-db, typescript"
+            title = "php, mySQL"
             [[entries.entries.entries.entries]]
-            title = "members: group"
+            title = "members"
+            url = "https://github.com/sf11047/anime-db/graphs/contributors"
 
         [[entries.entries.entries]]
-        title = "<a href='#'>leadingedge labs/r3d</a>: "
+        title = "2020 - <a href=''>drosophila</a> [offline]: helped expand computational models of Drosophila neuron behavior"
             [[entries.entries.entries.entries]]
-            title = "built during after school program from highschool"
-            [[entries.entries.entries.entries]]
-            title = "unity, leapmotion, arduino, c++"
-
-        [[entries.entries.entries]]
-        title = "<a href='#'>drosophila</a>: helped expand computational models of Drosophila neuron behavior"
-            [[entries.entries.entries.entries]]
-            title = "research assistant from uni"
+            title = "research assistant from uni, contributor"
             [[entries.entries.entries.entries]]
             title = "python, NUERON"
             [[entries.entries.entries.entries]]
             title = "members: lab"
 
         [[entries.entries.entries]]
-        title = "<a href='#'>CoGS</a>: android"
+          title = "2020 - <a href=''>pintOS</a>: operating system"
             [[entries.entries.entries.entries]]
-            title = "class project from uni"
-            [[entries.entries.entries.entries]]
-            title = "android development, java"
-            [[entries.entries.entries.entries]]
-            title = "members: group"
-
-        [[entries.entries.entries]]
-        title = "<a href='#'>pintOS</a>: operating system"
-            [[entries.entries.entries.entries]]
-            title = "class project from uni based on pintOS"
+            title = "class project from uni based on pintOS, repo owned by uni"
             [[entries.entries.entries.entries]]
             title = "c, c++"
             [[entries.entries.entries.entries]]
-            title = "members: group"
+            title = "members: class group"
+
+        [[entries.entries.entries]]
+          title = "2020 - <a href=''>CoGS</a>: android"
+            [[entries.entries.entries.entries]]
+            title = "class project from uni, repo owned by uni"
+            [[entries.entries.entries.entries]]
+            title = "android development, java"
+            [[entries.entries.entries.entries]]
+            title = "members: class group"
+
+        [[entries.entries.entries]]
+            title = "2019 - <a href='https://github.com/byanthny/Ouch'>ouch</a>: a simulation where you and your friends can exist in an existence together"
+                [[entries.entries.entries.entries]]
+                title = "over complicated messaging rooms"
+                [[entries.entries.entries.entries]]
+                title = "javascript, less, HTML"
+                [[entries.entries.entries.entries]]
+                title = "members"
+                url = "https://github.com/JonoAugustine"
+
+        [[entries.entries.entries]]
+           title = "2019 - <a href='https://github.com/byanthny/Athena'>athena</a> [unfinished]: a css framework"
+                [[entries.entries.entries.entries]]
+                title = "abandonded because better projects exist and learned what i needed"
+                [[entries.entries.entries.entries]]
+                title = "less, HTML"
+
+        [[entries.entries.entries]]
+          title = "2018 - <a href=''>leadingedge labs & r3d</a> [offline]: game based therapy for custom 3-D printed myoelectric prosthethics"
+            [[entries.entries.entries.entries]]
+            title = "built during after school program from highschool"
+            [[entries.entries.entries.entries]]
+            title = "unity, leapmotion, arduino, c++"
 
 [[entries]]
 title = "site info"
