@@ -162,7 +162,7 @@ title = "site info"
   title = "built with <a href='https://gohugo.io/'>Hugo</a>."
 
   [[entries.entries]]
-  title = "theme: <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
+  title = "theme: <a href='https://github.com/Masellum/hugo-theme-nostyleplease'>masellum/no-style-please</a>."
 
   [[entries.entries]]
   title = "custom theme coming in future..."
