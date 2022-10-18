@@ -2,7 +2,7 @@
 title = "info"
 
   [[entries.entries]]
-  title = "name: anthony das"
+  title = "anthony das"
 
   [[entries.entries.entries]]
     title = "resume"
@@ -128,7 +128,7 @@ title = "projects"
                 [[entries.entries.entries.entries]]
                 title = "over complicated messaging rooms"
                 [[entries.entries.entries.entries]]
-                title = "javascript, less, HTML"
+                title = "javascript, less, html"
                 [[entries.entries.entries.entries]]
                 title = "members"
                 url = "https://github.com/JonoAugustine"
@@ -138,14 +138,14 @@ title = "projects"
                 [[entries.entries.entries.entries]]
                 title = "abandonded because better projects exist and learned what i needed"
                 [[entries.entries.entries.entries]]
-                title = "less, HTML"
+                title = "less, html"
 
         [[entries.entries.entries]]
-          title = "2018 - <a href=''>leadingedge labs & r3d</a> [offline]: game based therapy for custom 3-D printed myoelectric prosthethics"
+          title = "2018 - <a href=''>leadingedge labs & r3d</a> [offline]: game based therapy for custom 3-D printed myoelectric prosthethics + project website"
             [[entries.entries.entries.entries]]
             title = "built during after school program from highschool"
             [[entries.entries.entries.entries]]
-            title = "unity, leapmotion, arduino, c++"
+            title = "unity, leapmotion, arduino, c++, html/css/js"
 
 [[entries]]
 title = "site info"
