@@ -8,6 +8,9 @@ title = "info"
     title = "resume"
     url = "/resume/Resume.pdf"
 
+  [[entries.entries.entries]]
+    title = "b.s. in computer science from <a href='https://jhu.edu'>jhu</a>"
+
   [[entries.entries]]
   title = "socials"
 
@@ -41,7 +44,7 @@ title = "projects"
     [[entries.entries.entries]]
       title = "<a href='https://gitlab.com/JonoAugustine/on-it'>on-it</a>: minimal note taking and to-do web application"
         [[entries.entries.entries.entries]]
-        title = "but overly 'complicated'"
+        title = "but overly 'complicated' ui"
         [[entries.entries.entries.entries]]
         title = "node, react, sass, typescript, mongoDB"
         [[entries.entries.entries.entries]]
@@ -141,7 +144,7 @@ title = "projects"
                 title = "less, html"
 
         [[entries.entries.entries]]
-          title = "2018 - <a href=''>leadingedge labs & r3d</a> [site offline]: game based therapy for custom 3-D printed myoelectric prosthethics + project website"
+          title = "2018 - <a href='https://www.youtube.com/watch?v=DPesVSQQUqY'>leadingedge labs & r3d</a>: game based therapy for custom 3-D printed myoelectric prosthethics + project website"
             [[entries.entries.entries.entries]]
             title = "built during after school program from highschool"
             [[entries.entries.entries.entries]]
