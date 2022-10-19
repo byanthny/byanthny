@@ -1,7 +1,7 @@
 baseURL = 'https://byanthny.com/'
 languageCode = 'en-us'
 title = 'byanthny'
-theme = 'nostyle'
+theme = 'no-style-please-fork'
 
 [module]
   [module.hugoVersion]
