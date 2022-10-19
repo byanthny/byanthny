@@ -87,7 +87,7 @@ title = "projects"
             title = "members: class group"
 
         [[entries.entries.entries]]
-          title = "2021 - <a href='https://github.com/sf11047/anime-db'>anime-db</a>: "
+          title = "2021 - <a href='https://github.com/sf11047/anime-db'>anime-db</a>: an database of anime data and site for analysis"
             [[entries.entries.entries.entries]]
             title = "class project from uni"
             [[entries.entries.entries.entries]]
@@ -115,7 +115,7 @@ title = "projects"
             title = "members: class group"
 
         [[entries.entries.entries]]
-          title = "2020 - <a href=''>CoGS</a>: android"
+          title = "2020 - <a href=''>CoGS</a>: android application for study groups"
             [[entries.entries.entries.entries]]
             title = "class project from uni, repo owned by uni"
             [[entries.entries.entries.entries]]
@@ -134,7 +134,7 @@ title = "projects"
                 url = "https://github.com/JonoAugustine"
 
         [[entries.entries.entries]]
-           title = "2019 - <a href='https://github.com/byanthny/Athena'>athena</a> [unfinished]: a css framework"
+           title = "2019 - <a href='https://github.com/byanthny/Athena'>athena</a> [unfinished]: a modern css framework"
                 [[entries.entries.entries.entries]]
                 title = "abandonded because better projects exist and learned what i needed"
                 [[entries.entries.entries.entries]]
