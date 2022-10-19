@@ -54,7 +54,7 @@ title = "projects"
         title = "c++"
 
     [[entries.entries.entries]]
-    title = "<a href=''>bndts</a> [backlog]: wordpress blog"
+    title = "<a href='https://bndts.co/'>bndts</a> [backlog]: wordpress blog"
         [[entries.entries.entries.entries]]
         title = "brand and blog for creatives and random creative projects"
         [[entries.entries.entries.entries]]
@@ -78,7 +78,7 @@ title = "projects"
     title = "archive"
 
         [[entries.entries.entries]]
-        title = "2022 - <a href='#'>bonsai</a> [offline]: resource and collaboration hub for JHU students"
+        title = "2022 - <a href='https://jhu-bonsai.herokuapp.com/'>bonsai</a> [no public repo]: resource and collaboration hub for JHU students"
             [[entries.entries.entries.entries]]
             title = "class project from uni, repo owned by uni"
             [[entries.entries.entries.entries]]
@@ -97,7 +97,7 @@ title = "projects"
             url = "https://github.com/sf11047/anime-db/graphs/contributors"
 
         [[entries.entries.entries]]
-        title = "2020 - <a href=''>drosophila</a> [offline]: helped expand computational models of Drosophila neuron behavior"
+        title = "2020 - <a href=''>drosophila</a> [no public repo]: helped expand computational models of Drosophila neuron behavior"
             [[entries.entries.entries.entries]]
             title = "research assistant from uni, contributor"
             [[entries.entries.entries.entries]]
@@ -106,7 +106,7 @@ title = "projects"
             title = "members: lab"
 
         [[entries.entries.entries]]
-          title = "2020 - <a href=''>pintOS</a>: operating system"
+          title = "2020 - <a href=''>pintOS</a> [no public repo]: operating system"
             [[entries.entries.entries.entries]]
             title = "class project from uni based on pintOS, repo owned by uni"
             [[entries.entries.entries.entries]]
@@ -115,7 +115,7 @@ title = "projects"
             title = "members: class group"
 
         [[entries.entries.entries]]
-          title = "2020 - <a href=''>CoGS</a>: android application for study groups"
+          title = "2020 - <a href=''>CoGS</a> [no public repo]: android application for study groups"
             [[entries.entries.entries.entries]]
             title = "class project from uni, repo owned by uni"
             [[entries.entries.entries.entries]]
@@ -141,7 +141,7 @@ title = "projects"
                 title = "less, html"
 
         [[entries.entries.entries]]
-          title = "2018 - <a href=''>leadingedge labs & r3d</a> [offline]: game based therapy for custom 3-D printed myoelectric prosthethics + project website"
+          title = "2018 - <a href=''>leadingedge labs & r3d</a> [site offline]: game based therapy for custom 3-D printed myoelectric prosthethics + project website"
             [[entries.entries.entries.entries]]
             title = "built during after school program from highschool"
             [[entries.entries.entries.entries]]
