@@ -6,5 +6,6 @@ Welcome to my github!
 - [On-It (in progress)](https://gitlab.com/JonoAugustine/on-it) - minimal and streamlined notes and to-do web app (hosted on gitlab)
 
 ## Links
+- [Website](https://byanthny.com/)
 - [Gitlab](https://gitlab.com/byanthny)
 - [Linkedin](https://www.linkedin.com/in/byanthny/)
