@@ -26,13 +26,14 @@ title = "info"
     url = "https://www.linkedin.com/in/byanthny/"
 
 [[entries]]
-title = "all posts"
+title = "blog"
 
   [entries.post_list]
+  section = "blog"
   limit = 5
   show_more = true
   show_more_text = "see archive..."
-  show_more_url = "posts"
+  show_more_url = "blog"
 
 [[entries]]
 title = "projects"
@@ -70,8 +71,15 @@ title = "projects"
 
       [[entries.entries.entries]]
         title = "<a href='#'>supercharge</a>"
-            [[entries.entries.entries.entries]]
-            title = "go, next"
+          [[entries.entries.entries.entries]]
+          title = "go, next"
+
+          [entries.entries.entries.post_list]
+          section = "supercharge"
+          limit = 2
+          show_more = true
+          show_more_text = "see more updates..."
+          show_more_url = "supercharge"
 
       [[entries.entries.entries]]
         title = "<a href='#'>lockbox</a>"
@@ -168,3 +176,13 @@ title = "site info"
 
   [[entries.entries]]
   title = "custom theme coming in future..."
+
+  [[entries.entries]]
+  title = "site updates"
+
+  [entries.entries.post_list]
+  section = "site"
+  limit = 2
+  show_more = true
+  show_more_text = "see more site updates..."
+  show_more_url = "site"
