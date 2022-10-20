@@ -1,5 +1,5 @@
 ---
-title: "the_plan"
+title: "the plan"
 date: 2022-10-20T01:28:08-04:00
 draft: false
 ---
