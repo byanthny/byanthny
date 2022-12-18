@@ -5,7 +5,7 @@ title = "info"
   title = "anthony das"
 
   [[entries.entries.entries]]
-    title = "<a href='/resume/Resume.pdf'>resume</a> & <a href='mailto:anthonydas46@gmail.com'>email</a>"
+    title = "<a href='/resume/Resume.pdf'>resume</a> & <a href='mailto:me@byanthny.com'>email</a>"
 
   [[entries.entries.entries]]
     title = "b.s. in computer science from <a href='https://jhu.edu'>jhu</a>"
@@ -41,32 +41,8 @@ title = "projects"
   [[entries.entries]]
   title = "current"
 
-
-
     [[entries.entries.entries]]
-      title = "<a href='https://github.com/byanthny/opengl'>opengl</a> [backlog]: learning opengl by making a game engine"
-        [[entries.entries.entries.entries]]
-        title = "c++"
-
-    [[entries.entries.entries]]
-      title = "<a href='https://bndts.co/'>bndts</a> [backlog]: wordpress blog"
-        [[entries.entries.entries.entries]]
-        title = "brand and blog for creatives and random creative projects"
-        [[entries.entries.entries.entries]]
-        title = "wordpress, seo, google analytics"
-        [[entries.entries.entries.entries]]
-        title = "members"
-        url = "https://bndts.co/about/"
-
-    [[entries.entries.entries]]
-      title = "<a href='https://github.com/byanthny/macropad-rp2040'>rp2040 macropad</a>"
-        [[entries.entries.entries.entries]]
-        title = "code for custom macropad built with adafruit's macropad rp2040 kit"
-        [[entries.entries.entries.entries]]
-        title = "python"
-
-    [[entries.entries.entries]]
-      title = "<a href='https://github.com/byanthny/lyric-bot'>lyric-bot</a>"
+      title = "<a href='https://github.com/byanthny/lyric-bot'>lyric-bot</a>: a discord bot"
         [[entries.entries.entries.entries]]
         title = "discord bot for music lyrics"
         [[entries.entries.entries.entries]]
@@ -76,12 +52,46 @@ title = "projects"
     title = "upcoming"
 
       [[entries.entries.entries]]
-        title = "<a href='#'>supercharge</a>"
+        title = "<a href='#'>supercharge (working title)</a>"
           [[entries.entries.entries.entries]]
           title = "go, next"
 
       [[entries.entries.entries]]
-        title = "<a href='#'>lockbox</a>"
+        title = "<a href='#'>lockbox (working title)</a>"
+
+      [[entries.entries.entries]]
+        title = "<a href='#'>inbox (working title)</a>"
+          [[entries.entries.entries.entries]]
+          title = "swift"
+
+    [[entries.entries]]
+    title = "backlog/maintaining"
+
+      [[entries.entries.entries]]
+       title = "<a href='https://github.com/byanthny/.dotfiles'>.dotfiles</a>: my dotfiles"
+
+      [[entries.entries.entries]]
+       title = "<a href='https://github.com/byanthny/opengl'>opengl</a>: learning opengl by making a game engine"
+        [[entries.entries.entries.entries]]
+        title = "c++"
+
+    [[entries.entries.entries]]
+      title = "<a href='https://bndts.co/'>bndts</a>: wordpress blog"
+        [[entries.entries.entries.entries]]
+        title = "brand and blog for creatives and random creative projects"
+        [[entries.entries.entries.entries]]
+        title = "wordpress, seo, google analytics"
+        [[entries.entries.entries.entries]]
+        title = "members"
+        url = "https://bndts.co/about/"
+
+
+    [[entries.entries.entries]]
+      title = "<a href='https://github.com/byanthny/macropad-rp2040'>rp2040 macropad</a>: custom macropad with rp2040"
+        [[entries.entries.entries.entries]]
+        title = "code for custom macropad built with adafruit's macropad rp2040 kit"
+        [[entries.entries.entries.entries]]
+        title = "python"
 
     [[entries.entries]]
     title = "archive"
