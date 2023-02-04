@@ -42,27 +42,16 @@ title = "projects"
   title = "current"
 
     [[entries.entries.entries]]
-      title = "<a href='https://github.com/byanthny/lyric-bot'>lyric-bot</a>: a discord bot"
+      title = "<a href='https://github.com/byanthny/anthnydas.com'>anthnydas</a>: tbd"
+
+    [[entries.entries.entries]]
+      title = "<a href='https://github.com/byanthny/my-sports'>my-sports</a>: simple sports calendar"
         [[entries.entries.entries.entries]]
-        title = "discord bot for music lyrics"
+          title = "an excuse to learn flutter"
         [[entries.entries.entries.entries]]
-        title = "python"
+          title = "flutter"
 
-    [[entries.entries]]
-    title = "upcoming"
-
-      [[entries.entries.entries]]
-        title = "<a href='#'>supercharge (working title)</a>"
-          [[entries.entries.entries.entries]]
-          title = "go, next"
-
-      [[entries.entries.entries]]
-        title = "<a href='#'>lockbox (working title)</a>"
-
-      [[entries.entries.entries]]
-        title = "<a href='#'>inbox (working title)</a>"
-          [[entries.entries.entries.entries]]
-          title = "swift"
+    
 
     [[entries.entries]]
     title = "backlog/maintaining"
@@ -75,15 +64,12 @@ title = "projects"
         [[entries.entries.entries.entries]]
         title = "c++"
 
-    [[entries.entries.entries]]
-      title = "<a href='https://bndts.co/'>bndts</a>: wordpress blog"
-        [[entries.entries.entries.entries]]
-        title = "brand and blog for creatives and random creative projects"
-        [[entries.entries.entries.entries]]
-        title = "wordpress, seo, google analytics"
-        [[entries.entries.entries.entries]]
-        title = "members"
-        url = "https://bndts.co/about/"
+      [[entries.entries.entries]]
+        title = "<a href='https://github.com/byanthny/lyric-bot'>lyric-bot</a>: a discord bot"
+          [[entries.entries.entries.entries]]
+          title = "discord bot for music lyrics"
+          [[entries.entries.entries.entries]]
+          title = "python"
 
 
     [[entries.entries.entries]]
