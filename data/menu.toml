@@ -45,13 +45,12 @@ title = "projects"
       title = "<a href='https://github.com/byanthny/anthnydas.com'>anthnydas</a>: tbd"
 
     [[entries.entries.entries]]
-      title = "<a href='https://github.com/byanthny/my-sports'>my-sports</a>: simple sports calendar"
+      title = "<a href='https://github.com/byanthny/yugo'>yugo</a>: basic hugo theme"
         [[entries.entries.entries.entries]]
-          title = "an excuse to learn flutter"
-        [[entries.entries.entries.entries]]
-          title = "flutter"
+          title = "your go to hugo theme"
 
-    
+    [[entries.entries.entries]]
+      title = "<a href='https://github.com/pinkilo'>pinkilo</a>: coming soon"
 
     [[entries.entries]]
     title = "backlog/maintaining"
