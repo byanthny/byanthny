@@ -42,15 +42,17 @@ title = "projects"
   title = "current"
 
     [[entries.entries.entries]]
-      title = "<a href='https://github.com/byanthny/anthnydas.com'>anthnydas</a>: tbd"
-
-    [[entries.entries.entries]]
       title = "<a href='https://github.com/byanthny/yugo'>yugo</a>: basic hugo theme"
         [[entries.entries.entries.entries]]
           title = "your go to hugo theme"
 
     [[entries.entries.entries]]
       title = "<a href='https://github.com/pinkilo'>pinkilo</a>: coming soon"
+        [[entries.entries.entries.entries]]
+        title = "see link above for projects"
+
+    [[entries.entries.entries]]
+      title = "<a href='https://github.com/byanthny/anthnydas.com'>anthnydas</a>: tbd"
 
     [[entries.entries]]
     title = "backlog/maintaining"
@@ -63,14 +65,6 @@ title = "projects"
         [[entries.entries.entries.entries]]
         title = "c++"
 
-      [[entries.entries.entries]]
-        title = "<a href='https://github.com/byanthny/lyric-bot'>lyric-bot</a>: a discord bot"
-          [[entries.entries.entries.entries]]
-          title = "discord bot for music lyrics"
-          [[entries.entries.entries.entries]]
-          title = "python"
-
-
     [[entries.entries.entries]]
       title = "<a href='https://github.com/byanthny/macropad-rp2040'>rp2040 macropad</a>: custom macropad with rp2040"
         [[entries.entries.entries.entries]]
@@ -82,7 +76,7 @@ title = "projects"
     title = "archive"
 
         [[entries.entries.entries]]
-          title = "<a href='https://gitlab.com/JonoAugustine/on-it'>on-it</a>: minimal note taking and to-do web application"
+          title = "2022 - <a href='https://gitlab.com/JonoAugustine/on-it'>on-it</a>: minimal note taking and to-do web application"
           [[entries.entries.entries.entries]]
           title = "but overly 'complicated' ui"
           [[entries.entries.entries.entries]]
@@ -90,7 +84,14 @@ title = "projects"
           [[entries.entries.entries.entries]]
           title = "members"
           url = "https://gitlab.com/JonoAugustine/on-it/-/graphs/master"
-
+          
+        [[entries.entries.entries]]
+          title = "2022 - <a href='https://github.com/byanthny/lyric-bot'>lyric-bot</a>[unfinished]: a discord bot"
+          [[entries.entries.entries.entries]]
+          title = "discord bot for music lyrics"
+          [[entries.entries.entries.entries]]
+          title = "python"
+          
         [[entries.entries.entries]]
         title = "2022 - <a href='https://jhu-bonsai.herokuapp.com/'>bonsai</a> [no public repo]: resource and collaboration hub for JHU students"
             [[entries.entries.entries.entries]]
