@@ -8,5 +8,4 @@ Visit my [website](https://byanthny.com/) for all projects and information.
 
 ## Links
 - [Website](https://byanthny.com/)
-- [Gitlab](https://gitlab.com/byanthny)
 - [Linkedin](https://www.linkedin.com/in/byanthny/)
