@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 ul {
-  @apply pl-4 list-disc;
+  @apply pl-4 list-disc pt-2 pb-3;
 }
 
 a {
