@@ -80,7 +80,8 @@ const Items = () => {
           </li>
           <ul>
             <li>
-              code for custom macropad built with adafruit's macropad rp2040 kit
+              code for custom macropad built with adafruit&apos;s macropad
+              rp2040 kit
             </li>
             <li>python</li>
           </ul>
@@ -103,7 +104,7 @@ const Items = () => {
             minimal note taking and to-do web application
           </li>
           <ul>
-            <li>but overly 'complicated' ui</li>
+            <li>but overly &apos;complicated&apos; ui</li>
             <li>node, react, sass, typescript, mongoDB</li>
             <li>
               <a href="https://gitlab.com/JonoAugustine/on-it/-/graphs/master">
