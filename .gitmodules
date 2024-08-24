@@ -1,6 +1,0 @@
-[submodule "themes/no-style-fork"]
-	path = themes/no-style-fork
-	url = https://github.com/byanthny/no-style-please
-[submodule "themes/no-style-please-fork"]
-	path = themes/no-style-please-fork
-	url = https://github.com/byanthny/hugo-no-style-please-fork.git
