@@ -6,7 +6,7 @@ const Items = () => {
         <li>anthony das</li>
         <ul>
           <li>
-            <a href="/resume/Resume.pdf">resume</a> &amp;{" "}
+            <a href="/Resume.pdf">resume</a> &amp;{" "}
             <a href="mailto:me@anthnydas.com">email</a>
           </li>
           <li>
@@ -19,35 +19,45 @@ const Items = () => {
             <a href="https://github.com/byanthny/">github</a>
           </li>
           <li>
-            <a href="https://gitlab.com/byanthny/">gitlab</a>
-          </li>
-          <li>
             <a href="https://www.linkedin.com/in/byanthny/">linkedin</a>
           </li>
         </ul>
       </ul>
-      <li>blog</li>
       <li>projects</li>
       <ul>
         <li>current</li>
         <ul>
           <li>
-            <a href="https://github.com/byanthny/yugo">yugo</a>: basic hugo
-            theme
+            <a href="https://github.com/pinkilo">pinkilo</a>:
           </li>
           <ul>
-            <li>your go to hugo theme</li>
+            <li>we craft experiences</li>
           </ul>
           <li>
-            <a href="https://github.com/pinkilo">pinkilo</a>: coming soon
+            <a href="https://etp.net">Entertainment Technology Partners</a>:
           </li>
           <ul>
-            <li>see link above for projects</li>
+            <li>Web Developer</li>
+            <ul>
+              <ul>
+                <li>
+                  Web Development, Web Design, Email Marketing, DevOps, CMS
+                  Management, SEO, & Analytics
+                </li>
+              </ul>
+              <li>Notable Work:</li>
+              <ul>
+                <li>
+                  <a href="https://eventeq.com">eventeq.com</a>: Next.js,
+                  TypeScript, TailwindCSS, Vercel, Sanity
+                </li>
+                <li>
+                  <a href="https://knw.net">knw.net</a>: Next.js, TypeScript,
+                  TailwindCSS, Sendgrid, Multi-Language
+                </li>
+              </ul>
+            </ul>
           </ul>
-          <li>
-            <a href="https://github.com/byanthny/anthnydas.com">anthnydas</a>:
-            tbd
-          </li>
         </ul>
         <li>backlog/maintaining</li>
         <ul>
@@ -74,9 +84,20 @@ const Items = () => {
             </li>
             <li>python</li>
           </ul>
+          <li>
+            <a href="https://github.com/byanthny/anthnydas.com">anthnydas</a>:
+            tbd
+          </li>
         </ul>
         <li>archive</li>
         <ul>
+          <li>
+            <a href="https://github.com/byanthny/yugo">yugo</a>: basic hugo
+            theme
+          </li>
+          <ul>
+            <li>your go to hugo theme</li>
+          </ul>
           <li>
             2022 - <a href="https://gitlab.com/JonoAugustine/on-it">on-it</a>:
             minimal note taking and to-do web application
@@ -185,29 +206,11 @@ const Items = () => {
       <li>site info</li>
       <ul>
         <li>
-          <a href="index.xml">rss</a>
-        </li>
-        <li>
           <a href="https://github.com/byanthny/byanthny">github repo</a>
         </li>
         <li>
-          built with <a href="https://gohugo.io/">Hugo</a>.
+          built with <a href="https://vercel.com/">Next.js & Vercel</a>.
         </li>
-        <li>
-          theme:{" "}
-          <a href="https://github.com/Masellum/hugo-theme-nostyleplease">
-            masellum/no-style-please
-          </a>
-          .
-        </li>
-        <li>custom theme coming in future...</li>
-        <li>site updates</li>
-        <ul>
-          <li>
-            <span>2022-10-18</span>
-            <a href="https://byanthny.com/site/init/">init website</a>
-          </li>
-        </ul>
       </ul>
     </ul>
   );
