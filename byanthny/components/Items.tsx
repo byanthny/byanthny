@@ -3,7 +3,7 @@ const Items = () => {
     <ul className="list-disc">
       <li>info</li>
       <ul>
-        <li>anthony das</li>
+        <h2>anthony das</h2>
         <ul>
           <li>
             <a href="/Resume.pdf">resume</a> &amp;{" "}
