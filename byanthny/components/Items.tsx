@@ -1,3 +1,5 @@
+import RelatedPosts from "./RelatedPosts"
+
 const Items = () => {
   return (
     <ul className="list-disc">
@@ -76,6 +78,7 @@ const Items = () => {
           </li>
           <ul>
             <li>rust</li>
+            <RelatedPosts project="macropad" />
           </ul>
         </ul>
         <li>
@@ -99,6 +102,9 @@ const Items = () => {
             <a href="https://github.com/byanthny/.dotfiles">.dotfiles</a>: my
             dotfiles
           </li>
+          <ul>
+            <RelatedPosts project="dotfiles" />
+          </ul>
           {/* <li>
             <a href="https://github.com/byanthny/opengl">opengl [on hold]</a>:
             learning opengl by making a game engine

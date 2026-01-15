@@ -9,6 +9,7 @@ export interface PostMeta {
   title: string
   date: string
   description: string
+  project?: string
 }
 
 export interface Post extends PostMeta {
@@ -34,11 +35,18 @@ export function getAllPosts(): PostMeta[] {
         title: data.title || slug,
         date: data.date || "",
         description: data.description || "",
+        project: data.project || undefined,
       }
     })
     .sort((a, b) => (a.date > b.date ? -1 : 1))
 
   return posts
+}
+
+export function getPostsByProject(project: string, limit?: number): PostMeta[] {
+  const allPosts = getAllPosts()
+  const filtered = allPosts.filter((post) => post.project === project)
+  return limit ? filtered.slice(0, limit) : filtered
 }
 
 export function getPostBySlug(slug: string): Post | null {
@@ -59,6 +67,7 @@ export function getPostBySlug(slug: string): Post | null {
     title: data.title || slug,
     date: data.date || "",
     description: data.description || "",
+    project: data.project || undefined,
     content,
   }
 }

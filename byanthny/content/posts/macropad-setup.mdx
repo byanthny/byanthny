@@ -1,0 +1,29 @@
+---
+title: "Setting up the RP2040 Macropad"
+date: "2026-01-14"
+description: "Initial setup and flashing rust firmware to the macropad."
+project: "macropad"
+---
+
+Got the Adafruit RP2040 Macropad kit assembled and working with Rust.
+
+## The Hardware
+
+The kit comes with:
+- RP2040 microcontroller
+- 3x4 mechanical key switches
+- Rotary encoder
+- Small OLED display
+
+## Rust Setup
+
+Using the `rp2040-hal` crate for hardware abstraction. The embassy framework makes async embedded rust pretty nice to work with.
+
+```rust
+#![no_std]
+#![no_main]
+
+use rp2040_hal as hal;
+```
+
+More updates to come as I build out the firmware.
